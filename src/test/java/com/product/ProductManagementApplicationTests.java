@@ -234,5 +234,6 @@ public class ProductManagementApplicationTests {
 
 		assertEquals(AppConstants.DELETED_CATEGORY + 1L, result);
 	}
+	
 
 }

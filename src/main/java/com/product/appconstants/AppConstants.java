@@ -31,8 +31,7 @@ public class AppConstants {
 	public static final String DELETED_CATEGORY = "Category Deleted Successfully :";
 
 	public static final String CATEGORY_ID_DOES_NOT_EXIST = "Category Id Does Not Exist : ";
-
-
+    public static final String ID = "id";
 	// Exception 
 	
 	public static final String ERROR ="An error occurred";
