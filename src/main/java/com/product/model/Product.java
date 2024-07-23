@@ -30,7 +30,7 @@ public class Product
     private BigDecimal price;
     @JsonBackReference
     @ManyToOne(fetch = FetchType.EAGER,cascade = CascadeType.ALL)
-    @JoinColumn(name = "category_id")
+    @JoinColumn(name = "category_id" )
     private Category category;
     @CreationTimestamp
     @Column(updatable = false)
