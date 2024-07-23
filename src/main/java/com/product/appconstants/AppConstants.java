@@ -6,17 +6,17 @@ public class AppConstants {
 
 	// Product Class Related Constants
 
-	public static final String PRODUCT_ADDED = "Product Added Successfully With Id : ";
+	public static final String PRODUCT_ADDED = "Products Added Successfully With Id : ";
 
-	public static final String PRODUCT_ADDED_FAILD = "Failed To Add Product";
+	public static final String PRODUCT_ADDED_FAILD = "Failed To Add Products";
 
 	public static final String PRODUCT_ADDED_ALREADY = "Product  Id  Already Exists :";
 
 	public static final String PRODUCT_ID_NOT_FOUND = "Product Id Not Found : ";
 
-	public static final String DELETE_PRODUCT = "Product Deleted Successfully :";
+	public static final String DELETE_PRODUCT = "Products Deleted Successfully :";
 
-	public static final String PRODUCT_ID_DOES_NOT_EXIST = "Product Id Does Not Exist: ";
+	public static final String PRODUCT_ID_DOES_NOT_EXIST = "Products Id Does Not Exist: ";
 
 	// Category Class Related Constants
 
